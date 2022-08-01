@@ -1,6 +1,7 @@
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
+- Original App [from](https://clerk.dev/tutorials/build-movie-emoji-quiz-with-remix-fauna-and-clerk)
 
 ## Development
 
